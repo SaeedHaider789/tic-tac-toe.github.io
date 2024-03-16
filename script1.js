@@ -24,7 +24,7 @@ let winMsg = (index)=> {
     div.style.height = "30vh";
     div.style.position = "absolute";
     mainBox.append(div);
-    div.style.backgroundColor = "black";
+    // div.style.backgroundColor = "black";
     div.style.color = "white";
     printMsg(index, div);
     let plg = document.getElementById("plg");

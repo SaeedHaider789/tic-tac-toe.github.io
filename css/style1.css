@@ -33,6 +33,7 @@ body{
     font-size: 18px;
     border: 10px solid red;
     border-radius: 20px;
+    background-color: rgba(33, 33, 33, 0.63);
 }
 #winMsg img{
     width: 30px;
